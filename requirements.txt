@@ -1,0 +1,12 @@
+# Fixed core dependencies for Python 3.11 stability
+llvmlite==0.40.1
+numba==0.57.1
+pandas<2.0.0
+
+# Main tools
+pycaret>=3.0.0
+autoviz
+ydata-profiling
+
+# Notebook support for VS Code
+ipykernel
