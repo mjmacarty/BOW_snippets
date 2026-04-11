@@ -14,9 +14,9 @@ This repository provides quick tools for data exploration and automated machine 
 ** Note: you can skip this if you don't plan to use pycaret for ML 
 ** Note: You will need to have python 3.11 installed first
 
-2. Activate the Environment:[space][space]
-Windows: .\.venv\Scripts\activate[space][space]
-macOS/Linux: source .venv/bin/activate[space][space]
+2. Activate the Environment:
+* **Windows**: `.\.venv\Scripts\activate`
+* **macOS/Linux**: `source .venv/bin/activate`
 
 3. Install Dependencies:[space][space]
 At the command line run these two lines
