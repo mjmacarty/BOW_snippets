@@ -3,7 +3,7 @@
 This repository provides quick tools for data exploration and automated machine learning using **Python 3.11**. These tools are designed to give you high-level insights with minimal coding.
 
 ## Quick Setup
-
+## Only complete steps 1 & 2 if you want to run pycaret for ML 
 1. **Create the Environment**
    Make a new directory and open it, at the command line:
 ```bash (command line)
@@ -27,7 +27,7 @@ At the command line run these two lines
 
 ## Tools
 
-### 1. Data Health Check (`profiling_snippet.py`)
+### 1. Data Health Check (`profiling_snippet.py`) Example uses an sklearn dataset.
 Generates an interactive HTML report of your dataset's health.
 - **Run:** `profiling_snippet.py`
 - **Output:** Open `data_report.html` to see missing values and correlations.
