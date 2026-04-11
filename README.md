@@ -11,8 +11,8 @@ This repository provides quick tools for data exploration and automated machine 
    git clone https://github.com
    python3.11 -m venv .venv
    ```
-* Note: you can skip this if you don't plan to use pycaret for ML.\ 
-* Note: You will need to have python 3.11 installed first.\
+** Note: you can skip this if you don't plan to use pycaret for ML 
+** Note: You will need to have python 3.11 installed first
 
 2. Activate the Environment:
 Windows: .\.venv\Scripts\activate.\
@@ -20,8 +20,9 @@ macOS/Linux: source .venv/bin/activate\
 
 3. Install Dependencies:
 At the command line run these two lines.\ 
-```python -m pip install --upgrade pip setuptools wheel```.\
-```pip install -r requirements.txt```.\
+``` bash (command line)
+    python -m pip install --upgrade pip setuptools wheel
+    pip install -r requirements.txt```
 
 ## Tools
 
