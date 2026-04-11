@@ -6,7 +6,7 @@ This repository provides quick tools for data exploration and automated machine 
 
 1. **Create the Environment**
    Make a new directory and open it, at the command line:
-> ```bash (command line)
+```bash (command line)
    mkdir BOW && cd BOW
    git clone https://github.com
    python3.11 -m venv .venv
