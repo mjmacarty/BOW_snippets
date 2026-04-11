@@ -6,20 +6,20 @@ This repository provides quick tools for data exploration and automated machine 
 
 1. **Create the Environment**
    Make a new directory and open it, at the command line:
-> ```mkdir BOW && cd BOW```. \
+> ```mkdir BOW && cd BOW```.\
 > ```git clone https://github.com/mjmacarty/BOW_snippets.git```.\ 
-> ```bash python3.11 -m venv .venv```. \
-* Note: you can skip this if you don't plan to use pycaret for ML. \ 
-* Note: You will need to have python 3.11 installed first. \
+> ```bash python3.11 -m venv .venv```.\
+* Note: you can skip this if you don't plan to use pycaret for ML.\ 
+* Note: You will need to have python 3.11 installed first.\
 
 2. Activate the Environment:
-Windows: .\.venv\Scripts\activate. \
-macOS/Linux: source .venv/bin/activate  \
+Windows: .\.venv\Scripts\activate.\
+macOS/Linux: source .venv/bin/activate\
 
 3. Install Dependencies:
-At the command line run these two lines. \ 
-```python -m pip install --upgrade pip setuptools wheel```. \
-```pip install -r requirements.txt```. \
+At the command line run these two lines.\ 
+```python -m pip install --upgrade pip setuptools wheel```.\
+```pip install -r requirements.txt```.\
 
 ## Tools
 
