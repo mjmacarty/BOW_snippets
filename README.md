@@ -18,11 +18,12 @@ This repository provides quick tools for data exploration and automated machine 
 Windows: .\.venv\Scripts\activate
 macOS/Linux: source .venv/bin/activate
 
-3. Install Dependencies:
+3. Install Dependencies:\
 At the command line run these two lines
-```bash (command line)
+```bash
    python -m pip install --upgrade pip setuptools wheel
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 
 ## Tools
 
