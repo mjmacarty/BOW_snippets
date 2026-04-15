@@ -8,11 +8,11 @@ This repository provides quick tools for data exploration and automated machine 
    Make a new directory and open it, at the command line:
 ```bash (command line)
    mkdir BOW && cd BOW
-   git clone https://github.com
+   git clone https://github.com/mjmacarty/BOW_snippets.git
    python3.11 -m venv .venv
    ```
-** Note: you can skip this if you don't plan to use pycaret for ML 
-** Note: You will need to have python 3.11 installed first
+* *Note: you can skip this if you don't plan to use pycaret for ML*
+* *Note: You will need to have python 3.11 installed first to use pycaret*
 
 2. Activate the Environment:
 * **Windows**: `.\.venv\Scripts\activate`
