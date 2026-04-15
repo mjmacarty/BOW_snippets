@@ -3,7 +3,7 @@
 This repository provides quick tools for data exploration and automated machine learning using **Python 3.11**. These tools are designed to give you high-level insights with minimal coding.
 
 ## Quick Setup
-## Only complete steps 1 & 2 if you want to run pycaret for ML 
+## Only complete steps 1 - 3 if you want to run pycaret for ML 
 1. **Create the Environment**
    Make a new directory and open it, at the command line:
 ```bash (command line)
